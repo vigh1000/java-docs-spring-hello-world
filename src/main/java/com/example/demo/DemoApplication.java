@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hallo AFOL!";
+		return "Push, Build, Deploy ohne Reboot ;-)";
 	}
 }
